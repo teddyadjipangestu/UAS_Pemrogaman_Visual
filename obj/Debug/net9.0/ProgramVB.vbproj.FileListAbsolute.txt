@@ -1,0 +1,28 @@
+C:\Users\teddy\ProgramVB\bin\Debug\net9.0\ProgramVB.exe
+C:\Users\teddy\ProgramVB\bin\Debug\net9.0\ProgramVB.deps.json
+C:\Users\teddy\ProgramVB\bin\Debug\net9.0\ProgramVB.runtimeconfig.json
+C:\Users\teddy\ProgramVB\bin\Debug\net9.0\ProgramVB.dll
+C:\Users\teddy\ProgramVB\bin\Debug\net9.0\ProgramVB.pdb
+C:\Users\teddy\ProgramVB\obj\Debug\net9.0\ProgramVB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teddy\ProgramVB\obj\Debug\net9.0\ProgramVB.AssemblyInfoInputs.cache
+C:\Users\teddy\ProgramVB\obj\Debug\net9.0\ProgramVB.AssemblyInfo.vb
+C:\Users\teddy\ProgramVB\obj\Debug\net9.0\ProgramVB.vbproj.CoreCompileInputs.cache
+C:\Users\teddy\ProgramVB\obj\Debug\net9.0\ProgramVB.dll
+C:\Users\teddy\ProgramVB\obj\Debug\net9.0\refint\ProgramVB.dll
+C:\Users\teddy\ProgramVB\obj\Debug\net9.0\ProgramVB.pdb
+C:\Users\teddy\ProgramVB\obj\Debug\net9.0\ProgramVB.genruntimeconfig.cache
+C:\Users\teddy\ProgramVB\obj\Debug\net9.0\ref\ProgramVB.dll
+C:\KULIAH-UNSIA\Semester 1\Pemrogaman Visual\UAS_Pemrogaman_Visual\bin\Debug\net9.0\ProgramVB.exe
+C:\KULIAH-UNSIA\Semester 1\Pemrogaman Visual\UAS_Pemrogaman_Visual\bin\Debug\net9.0\ProgramVB.deps.json
+C:\KULIAH-UNSIA\Semester 1\Pemrogaman Visual\UAS_Pemrogaman_Visual\bin\Debug\net9.0\ProgramVB.runtimeconfig.json
+C:\KULIAH-UNSIA\Semester 1\Pemrogaman Visual\UAS_Pemrogaman_Visual\bin\Debug\net9.0\ProgramVB.dll
+C:\KULIAH-UNSIA\Semester 1\Pemrogaman Visual\UAS_Pemrogaman_Visual\bin\Debug\net9.0\ProgramVB.pdb
+C:\KULIAH-UNSIA\Semester 1\Pemrogaman Visual\UAS_Pemrogaman_Visual\obj\Debug\net9.0\ProgramVB.GeneratedMSBuildEditorConfig.editorconfig
+C:\KULIAH-UNSIA\Semester 1\Pemrogaman Visual\UAS_Pemrogaman_Visual\obj\Debug\net9.0\ProgramVB.AssemblyInfoInputs.cache
+C:\KULIAH-UNSIA\Semester 1\Pemrogaman Visual\UAS_Pemrogaman_Visual\obj\Debug\net9.0\ProgramVB.AssemblyInfo.vb
+C:\KULIAH-UNSIA\Semester 1\Pemrogaman Visual\UAS_Pemrogaman_Visual\obj\Debug\net9.0\ProgramVB.vbproj.CoreCompileInputs.cache
+C:\KULIAH-UNSIA\Semester 1\Pemrogaman Visual\UAS_Pemrogaman_Visual\obj\Debug\net9.0\ProgramVB.dll
+C:\KULIAH-UNSIA\Semester 1\Pemrogaman Visual\UAS_Pemrogaman_Visual\obj\Debug\net9.0\refint\ProgramVB.dll
+C:\KULIAH-UNSIA\Semester 1\Pemrogaman Visual\UAS_Pemrogaman_Visual\obj\Debug\net9.0\ProgramVB.pdb
+C:\KULIAH-UNSIA\Semester 1\Pemrogaman Visual\UAS_Pemrogaman_Visual\obj\Debug\net9.0\ProgramVB.genruntimeconfig.cache
+C:\KULIAH-UNSIA\Semester 1\Pemrogaman Visual\UAS_Pemrogaman_Visual\obj\Debug\net9.0\ref\ProgramVB.dll
